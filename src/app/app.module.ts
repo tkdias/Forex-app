@@ -9,7 +9,7 @@ import { AngularFireModule} from 'angularfire2';
 import { UserService } from '../providers/user-service';
 import { Service } from '../providers/service';
 
-//Make pages in this place ...(Nadun)
+//Make pages in this place ...
 import { MyApp } from './app.component';
 import { HomePage } from '../pages/home/home';
 import { HomepagePage } from '../pages/homepage/homepage';
